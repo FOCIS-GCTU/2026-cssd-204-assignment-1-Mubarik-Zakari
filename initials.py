@@ -5,6 +5,7 @@
 # Name: Mubarik Zakari
 # STUDENT ID:  2425401451
 # Email: 2425401451@live.gctu.edu.gh
+# Grader: Mr. Augustus Buckman 
 #
 # On my honor, Mubarik Zakari, this programming assignment is my own work
 # and I have not provided this code to any other student.
